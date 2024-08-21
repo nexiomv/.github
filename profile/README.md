@@ -13,7 +13,7 @@ NEXIO thrives on visionary thinking, and our team is built from the ground up to
 ### What We Do Best 🌟
 
 - **Innovative Software Solutions** 💻: We design and build custom applications that are intuitive, scalable, and ready for the future.
-- **Emerging Technologies** 🚀: We integrate the latest advancements in AI, machine learning, IoT, and blockchain to offer unparalleled digital solutions.
+- **Emerging Technologies** 🚀: We integrate the latest advancements to offer unparalleled digital solutions.
 - **Creative Problem-Solving** 🎨: Innovation is at the core of everything we do. We create elegant solutions to complex challenges by blending technology and creativity.
 - **Future Impact** 🌍: We are committed to creating technology that has a meaningful, lasting impact on both businesses and society.
 
