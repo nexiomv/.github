@@ -4,7 +4,7 @@
 
 ## About Us ✨
 
-At **NEXIO**, we are more than just a software development company; we are a driving force for innovation, creativity, and technological transformation. Founded on the belief that the future belongs to those who build it, NEXIO is committed to shaping the digital landscape of tomorrow.
+At **NEXIO**, we are a driving force for innovation, creativity, and technological transformation. Founded on the belief that the future belongs to those who build it, NEXIO is committed to shaping the digital landscape of tomorrow.
 
 Our mission is simple but powerful: to **push boundaries** and **elevate industries** through cutting-edge software solutions. From pioneering **next-gen technologies** to designing bespoke applications that solve real-world problems, we are focused on creating a smarter, more connected future.
 
@@ -19,7 +19,7 @@ NEXIO thrives on visionary thinking, and our team is built from the ground up to
 
 ### Our Vision 🌠
 
-To become the **leading force** in digital innovation across the Maldives and beyond, driving transformational growth by delivering **revolutionary software** that redefines the possibilities of the digital world.
+To become a **leading force** in digital innovation globally, driving transformational growth by delivering **revolutionary software** that reimagines the possibilities of the digital world.
 
 We see a future where **technology empowers** people, enhances businesses, and drives sustainable change. As we look ahead, NEXIO is poised to be at the forefront of that future — helping to build a world where the impossible becomes the everyday.
 
